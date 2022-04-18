@@ -1,0 +1,3 @@
+Migration:
+	- Init project: Update-database
+	- Reset Post:  .\RefreshMigration.ps1 20220306021050_SeedData Post
